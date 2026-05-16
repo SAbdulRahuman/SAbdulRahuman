@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="174b009c-2284-4036-9b97-18f710231a25" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-## Certifications
-
-[![CKAD Badge](https://images.credly.com/size/340x340/images/14a0cde7-76bc-4c20-bdeb-559f7e8f2d0d/image.png)](https://www.credly.com/badges/174b009c-2284-4036-9b97-18f710231a25/public_url)
 
 # Certifications
 
 | Certification | Badge |
 |---|---|
 | CKAD | [View Badge](https://www.credly.com/badges/174b009c-2284-4036-9b97-18f710231a25/public_url) |
+
+
