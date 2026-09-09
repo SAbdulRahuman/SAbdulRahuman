@@ -1,122 +1,158 @@
-## Abdul Rahuman 👋
+<div align="center">
 
-<!--
-**SAbdulRahuman/SAbdulRahuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Abdul Rahuman
 
-Here are some ideas to get you started:
+### ☁️ Cloud Native Engineer | ☸️ Kubernetes | 🤖 AI & LLMs | 📊 Observability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building at the intersection of **Cloud Native, Kubernetes, AI/LLMs, Multi-Cloud, and Developer Platforms**.
 
+<br/>
 
-# Certifications
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)](https://kubernetes.io/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)](https://www.linux.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)](https://cloud.google.com/)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)](https://azure.microsoft.com/)
 
-| Certification | Badge |
-|---|---|
-| CKAD | [View Badge](https://www.credly.com/badges/174b009c-2284-4036-9b97-18f710231a25/public_url) |
+<br/>
 
+[![AI](https://img.shields.io/badge/AI_%26_LLMs-000000?style=for-the-badge\&logo=openai\&logoColor=white)](https://openai.com/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)](https://grafana.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)](https://www.docker.com/)
 
-
-
-# 🚀 Reskill, Certifications & Projects Roadmap
-
-## 🏆 Golden Kubestronaut
-
-### Kubestronaut
-
-* [x] CKAD
-* [ ] CKA
-* [ ] CKS
-* [ ] KCSA
-* [ ] KCNA
-
-### Linux
-
-* [ ] LFCS
-
-### Observability
-
-* [ ] PCA
-* [ ] OTCA
-
-### Service Mesh & Networking
-
-* [ ] ICA
-* [ ] CCA
-
-### GitOps & CI/CD
-
-* [ ] CGOA
-* [ ] CAPA
-
-### Policy & Platform
-
-* [ ] CBA
-* [ ] KCA
-* [ ] CNPA
-* [ ] CNPE
+</div>
 
 ---
 
-# ☁️ AWS – AWStronaut
+# 🧑‍💻 About Me
 
-## Business
+🚀 **Cloud Native & Kubernetes Engineer** with a strong interest in:
 
-* [ ] AWS Certified AI Business Strategist
-
-## Foundational
-
-* [ ] AWS Certified Cloud Practitioner
-* [ ] AWS Certified AI Practitioner
-
-## Associate
-
-* [ ] AWS Certified Machine Learning Engineer – Associate
-* [ ] AWS Certified Solutions Architect – Associate
-* [ ] AWS Certified Developer – Associate
-* [ ] AWS Certified Data Engineer – Associate
-* [ ] AWS Certified CloudOps Engineer – Associate
-
-## Professional
-
-* [ ] AWS Certified Generative AI Developer – Professional
-* [ ] AWS Certified Solutions Architect – Professional
-* [ ] AWS Certified DevOps Engineer – Professional
-
-## Specialty
-
-* [ ] AWS Certified Security – Specialty
+* ☸️ Kubernetes & Cloud Native Architecture
+* 🤖 AI / LLM Infrastructure
+* ☁️ Multi-Cloud Platforms
+* 📊 Observability & Monitoring
+* 🔄 DevOps, GitOps & Platform Engineering
+* 🧠 Autonomous Systems & Robotics
+* 🌍 Building globally scalable SaaS platforms
 
 ---
 
-# 🇩🇪 German Language
+# 🏆 Certifications
 
-| Level  | Goal                       | Estimated Cost |
-| ------ | -------------------------- | -------------: |
-| [ ] A1 | Basic Survival German      |         ₹9,400 |
-| [ ] A2 | Basic Daily Communication  |        ₹10,600 |
-| [ ] B1 | Independent Communication  |        ₹18,800 |
-| [ ] B2 | Professional Working Level |        ₹21,200 |
+## ☸️ CNCF & Linux Foundation Journey
 
-**Target:** Professional working proficiency in German 🇩🇪
+### 🎯 Golden Kubestronaut Roadmap
+
+| Domain           | Certification | Status          |
+| ---------------- | ------------- | --------------- |
+| ☸️ Kubernetes    | **CKAD**      | ✅ **Completed** |
+| ☸️ Kubernetes    | CKA           | ⬜ Planned       |
+| 🔐 Security      | CKS           | ⬜ Planned       |
+| 📚 Fundamentals  | KCSA          | ⬜ Planned       |
+| 📚 Fundamentals  | KCNA          | ⬜ Planned       |
+| 🐧 Linux         | LFCS          | ⬜ Planned       |
+| 📊 Observability | PCA           | ⬜ Planned       |
+| 📊 Observability | OTCA          | ⬜ Planned       |
+| 🌐 Service Mesh  | ICA           | ⬜ Planned       |
+| 🌐 Networking    | CCA           | ⬜ Planned       |
+| 🔄 GitOps        | CGOA          | ⬜ Planned       |
+| 🔄 CI/CD         | CAPA          | ⬜ Planned       |
+| 🏗️ Platform     | CBA           | ⬜ Planned       |
+| 🏗️ Platform     | KCA           | ⬜ Planned       |
+| 🛡️ Policy       | CNPA          | ⬜ Planned       |
+| 🛡️ Policy       | CNPE          | ⬜ Planned       |
+
+### 🎖️ Earned Badges
+
+| Certification                                            | Credential                                                                                          |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ☸️ **CKAD — Certified Kubernetes Application Developer** | [🏆 View Credential](https://www.credly.com/badges/174b009c-2284-4036-9b97-18f710231a25/public_url) |
 
 ---
 
-# 🇸🇦 Arabic Language
+# ☁️ AWS Certification Journey
 
-* [ ] **A2** – Daily Communication
-* [ ] **B1** – Workplace Communication
-* [ ] **B2** – Long-Term Professional Advantage
-* [ ] **C1** – Advanced / Near-Professional Fluency
+## 🎯 AWStronaut Roadmap
 
-**Target:** Advanced Arabic proficiency 🇸🇦
+| Level           | Certification                           | Status    |
+| --------------- | --------------------------------------- | --------- |
+| 💼 Business     | AWS Certified AI Business Strategist    | ⬜ Planned |
+| 🌱 Foundational | AWS Certified Cloud Practitioner        | ⬜ Planned |
+| 🌱 Foundational | AWS Certified AI Practitioner           | ⬜ Planned |
+| 🚀 Associate    | AWS Certified Machine Learning Engineer | ⬜ Planned |
+| 🚀 Associate    | AWS Certified Solutions Architect       | ⬜ Planned |
+| 🚀 Associate    | AWS Certified Developer                 | ⬜ Planned |
+| 🚀 Associate    | AWS Certified Data Engineer             | ⬜ Planned |
+| 🚀 Associate    | AWS Certified CloudOps Engineer         | ⬜ Planned |
+| 🏆 Professional | AWS Certified Generative AI Developer   | ⬜ Planned |
+| 🏆 Professional | AWS Certified Solutions Architect       | ⬜ Planned |
+| 🏆 Professional | AWS Certified DevOps Engineer           | ⬜ Planned |
+| ⭐ Specialty     | AWS Certified Security                  | ⬜ Planned |
+
+---
+
+# ☁️ Multi-Cloud Certification Roadmap
+
+## Google Cloud Platform
+
+| Certification                             | Status    |
+| ----------------------------------------- | --------- |
+| ☁️ Professional Cloud Architect           | ⬜ Planned |
+| 🔐 Professional Cloud Security Engineer   | ⬜ Planned |
+| 🤖 Professional Machine Learning Engineer | ⬜ Planned |
+
+## Microsoft Azure
+
+| Certification                        | Status    |
+| ------------------------------------ | --------- |
+| 🏗️ Azure Solutions Architect Expert | ⬜ Planned |
+| 🔄 DevOps Engineer Expert            | ⬜ Planned |
+
+---
+
+# 📊 Certification Progress
+
+<div align="center">
+
+| Ecosystem                  | Completed | In Progress / Planned |                              Goal |
+| -------------------------- | --------: | --------------------: | --------------------------------: |
+| ☸️ CNCF / Linux Foundation |         1 |                    15 |            Golden Kubestronaut 🏆 |
+| ☁️ AWS                     |         0 |                    12 |                     AWStronaut 🚀 |
+| ☁️ Google Cloud            |         0 |                     3 |                Cloud Architect 🤖 |
+| 🔷 Microsoft Azure         |         0 |                     2 |          Multi-Cloud Architect 🌍 |
+| **TOTAL**                  |     **1** |                **32** | **Global Cloud Native Architect** |
+
+</div>
+
+---
+
+# 🗺️ Learning Roadmap
+
+## 🇩🇪 German Language
+
+| Level | Capability                    | Investment | Status |
+| ----- | ----------------------------- | ---------: | ------ |
+| A1    | 🗣️ Basic Survival German     |     ₹9,400 | ⬜      |
+| A2    | 💬 Daily Communication        |    ₹10,600 | ⬜      |
+| B1    | 🌍 Independent Communication  |    ₹18,800 | ⬜      |
+| B2    | 💼 Professional Working Level |    ₹21,200 | ⬜      |
+
+> 🎯 **Goal:** Achieve professional working proficiency in German.
+
+---
+
+## 🇸🇦 Arabic Language
+
+| Level | Goal                                    | Status |
+| ----- | --------------------------------------- | ------ |
+| A2    | 💬 Daily Communication                  | ⬜      |
+| B1    | 🏢 Workplace Communication              | ⬜      |
+| B2    | 💼 Long-Term Professional Advantage     | ⬜      |
+| C1    | 🧠 Advanced / Near-Professional Fluency | ⬜      |
+
+> 🎯 **Goal:** Achieve advanced Arabic proficiency.
 
 ---
 
@@ -124,83 +160,101 @@ Here are some ideas to get you started:
 
 ## 🤖 AI on Kubernetes PaaS
 
-A platform for deploying and serving AI/LLM models on Kubernetes.
+> **AI infrastructure platform for deploying and operating LLMs and SLMs on Kubernetes.**
 
-Potential features:
+### 🔧 Planned Features
 
-* LLM/SLM deployment
-* Cloud deployment on AWS, GCP, and Azure
-* CLI interface
-* HTTP APIs
-* MCP Server
-* Developer integrations
-* AI model observability
+`Kubernetes` · `LLMs` · `SLMs` · `GPU` · `CLI` · `HTTP APIs` · `MCP Server`
+
+* ☸️ AI model deployment on Kubernetes
+* ☁️ Multi-cloud deployment
+* 💻 Gemini/Codex-style CLI
+* 🌐 HTTP API
+* 🔌 MCP Server
+* 🧩 Developer integrations
+* 📊 AI model observability
+* 🔐 Secure multi-tenant architecture
 
 ---
 
 ## 📈 Stock Observability Platform
 
-A SaaS platform for financial market monitoring and observability.
+> **A financial observability platform for monitoring stock markets, metrics, news, and alerts.**
 
-Potential components:
+### 🛠️ Technology Direction
 
-* Stock data exporters
-* Prometheus-based monitoring
-* Financial metrics
-* Alerting
-* Grafana dashboards
-* Market news integration
-* AI-powered analysis
+`Prometheus` · `Grafana` · `Loki` · `Alertmanager` · `OpenTelemetry` · `AI Agents`
+
+* 📈 Stock data exporters
+* 📊 Financial metrics and dashboards
+* 🚨 Intelligent alerting
+* 📰 Market news monitoring
+* 🤖 AI-powered analysis
+* 🔍 Observability-driven market insights
 
 ---
 
 ## 🌍 Polyglot AI Learning Agent
 
-An AI-powered language learning platform for learning:
+> **An AI-powered language learning system using books, stories, movies, audio, and intelligent agents.**
 
-* 🇬🇧 English
-* 🇩🇪 German
-* 🇸🇦 Arabic
+### 🌐 Languages
 
-Learning approach:
+🇬🇧 **English**
+🇩🇪 **German**
+🇸🇦 **Arabic**
 
-* Movies and videos
-* Books and stories
-* Vocabulary extraction
-* Word meanings
-* Example sentences
-* AI-generated images
-* Pronunciation
-* Audio learning
-* Reading and writing practice
+### 🧠 AI Learning Features
 
----
-
-# 🎓 M.Tech
-
-* [ ] **M.Tech. Robotics & Autonomous Systems**
+* 📖 Vocabulary extraction
+* 🔤 Word meanings
+* ✍️ Example sentences
+* 🖼️ AI-generated visual learning
+* 🔊 Pronunciation training
+* 🎧 Audio learning
+* 🎬 Learning from movies
+* 📚 Learning from books and stories
+* ✏️ Reading and writing practice
 
 ---
 
-# ☁️ Google Cloud (GCP)
+# 🎓 Academic Journey
 
-* [ ] Professional Cloud Architect
-* [ ] Professional Cloud Security Engineer
-* [ ] Professional Machine Learning Engineer
+## 🤖 M.Tech
+
+* 🎓 **M.Tech. Robotics & Autonomous Systems**
+* 🔬 Focus on:
+
+  * Artificial Intelligence
+  * Autonomous Systems
+  * Robotics
+  * AI Agents
+  * Intelligent Systems
 
 ---
 
-# 🔷 Microsoft Azure
+# 🎯 Long-Term Vision
 
-* [ ] Azure Solutions Architect Expert
-* [ ] DevOps Engineer Expert
+> **Build deep expertise across Cloud Native, Kubernetes, AI/LLMs, Multi-Cloud Architecture, Observability, DevOps, and Autonomous Systems — while creating real-world SaaS platforms with global impact.**
+
+<div align="center">
+
+### 🧭 My Technology Focus
+
+`Kubernetes` · `Cloud Native` · `AI/LLMs` · `AWS` · `GCP` · `Azure`
+
+`Observability` · `DevOps` · `GitOps` · `Platform Engineering`
+
+`Robotics` · `German` · `Arabic`
+
+</div>
 
 ---
 
-## 🎯 Long-Term Vision
+<div align="center">
 
-> Build deep expertise across **Cloud Native, Kubernetes, AI/LLMs, Multi-Cloud Architecture, Observability, DevOps, and Autonomous Systems**, while building real-world SaaS products and achieving professional proficiency in **German and Arabic**.
+### 🚀 Building. Learning. Contributing. Growing.
 
-**Focus Areas:**
+**☸️ Cloud Native → 🤖 AI Infrastructure → ☁️ Multi-Cloud → 🌍 Global Impact**
 
-`Kubernetes` · `Cloud Native` · `AI/LLMs` · `AWS` · `GCP` · `Azure` · `Observability` · `DevOps` · `Robotics` · `German` · `Arabic`
+</div>
