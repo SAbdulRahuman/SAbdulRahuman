@@ -220,7 +220,29 @@ Building at the intersection of **Cloud Native, Kubernetes, AI/LLMs, Multi-Cloud
 
 # 🎓 Academic Journey
 
-## 🤖 M.Tech
+<div align="center">
+
+### 📚 Academic Foundation in Computer Science & Artificial Intelligence
+
+</div>
+
+| Degree         | Specialization                  | Status      |
+| -------------- | ------------------------------- | ----------- |
+| 🎓 **B.Sc.**   | Computer Science                | ✅ Completed |
+| 🎓 **MCA**     | Master of Computer Applications | ✅ Completed |
+| 🎓 **M.Tech.** | AI & Data Science Engineering   | ✅ Completed |
+
+<br/>
+
+> 🎯 **Academic Focus:** Computer Science → Software Engineering → Artificial Intelligence & Data Science
+
+---
+
+## 🤖 Future Academic Interest
+
+| Program                                  | Focus                                                   | Status         |
+| ---------------------------------------- | ------------------------------------------------------- | -------------- |
+| 🎓 M.Tech. Robotics & Autonomous Systems | Robotics · AI · Autonomous Systems · Intelligent Agents | 🔮 Future Goal |
 
 * 🎓 **M.Tech. Robotics & Autonomous Systems**
 * 🔬 Focus on:
@@ -231,6 +253,23 @@ Building at the intersection of **Cloud Native, Kubernetes, AI/LLMs, Multi-Cloud
   * AI Agents
   * Intelligent Systems
 
+
+---
+
+### 🧠 Academic Evolution
+
+```text
+🎓 B.Sc. Computer Science
+          │
+          ▼
+💻 MCA – Master of Computer Applications
+          │
+          ▼
+🤖 M.Tech. AI & Data Science Engineering
+          │
+          ▼
+🚀 Future: Robotics & Autonomous Systems
+```
 ---
 
 # 🎯 Long-Term Vision
